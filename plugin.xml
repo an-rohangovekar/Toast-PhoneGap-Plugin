@@ -21,9 +21,9 @@
 
   <issue>https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/issues</issue>
 
-  <engines>
+  <!-- <engines>
     <engine name="cordova" version=">=3.0.0"/>
-  </engines>
+  </engines> -->
 
   <js-module src="www/Toast.js" name="Toast">
     <clobbers target="window.plugins.toast" />
